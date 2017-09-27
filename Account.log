@@ -1,0 +1,11 @@
+2017-05-02-main-INFO -root      :Account details added successfully:
+2017-05-02-main-INFO -root      :Record Found Successfully
+2017-05-03-main-ERROR-root      :ORA-00001: unique constraint (CAPG0109.AC_NUMBER_PK) violated
+
+2017-05-03-main-INFO -root      :Account details added successfully:
+2017-05-03-main-INFO -root      :Record Found Successfully
+2017-05-03-main-INFO -root      :Record Not Found Successfully
+2017-05-03-main-INFO -root      :Record Not Found Successfully
+2017-05-03-main-INFO -root      :Record Found Successfully
+2017-05-03-main-INFO -root      :Record Not Found Successfully
+2017-05-03-main-INFO -root      :Record Not Found Successfully
